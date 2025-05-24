@@ -22,11 +22,9 @@ Feel free to add questions, correct errors, or suggest improvements.
 
 ---
 
-
- 
-### **Python Basics**
-
 <details>
+
+ <summary>🐍 Python Basics</summary>
 
 ### 1. 🔍 **What are Python’s built-in data types?**
 
