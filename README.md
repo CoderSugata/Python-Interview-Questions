@@ -22,7 +22,11 @@ Feel free to add questions, correct errors, or suggest improvements.
 
 ---
 
+
+ 
 ### **Python Basics**
+
+<details>
 
 ### 1. 🔍 **What are Python’s built-in data types?**
 
@@ -160,6 +164,7 @@ Python 🐍 is widely used in Data Science for the following reasons:
 * ⏭️ `continue`: Skips the current iteration and moves to the next
 * 🪶 `pass`: Does nothing, used as a placeholder
 
+</details>
 
 ## 📫 Contact
 
