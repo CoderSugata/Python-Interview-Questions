@@ -159,6 +159,8 @@ Feel free to add questions, correct errors, or suggest improvements.
 <p align="Left-align">
   <!-- LinkedIn / Twitter / Website icons -->
   <a href="https://www.linkedin.com/in/sugatamondal/">
+
+ --- 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sugata_12/">
